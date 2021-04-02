@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\上位机开发\2D-VCOM解决方案\2D-VCOM\2D-VCOM\bin\Debug\2D-VCOM.exe.config
+C:\Users\Administrator\Desktop\上位机开发\2D-VCOM解决方案\2D-VCOM\2D-VCOM\bin\Debug\2D-VCOM.exe
+C:\Users\Administrator\Desktop\上位机开发\2D-VCOM解决方案\2D-VCOM\2D-VCOM\bin\Debug\2D-VCOM.pdb
+C:\Users\Administrator\Desktop\上位机开发\2D-VCOM解决方案\2D-VCOM\2D-VCOM\obj\Debug\_2D_VCOM.Form1.resources
+C:\Users\Administrator\Desktop\上位机开发\2D-VCOM解决方案\2D-VCOM\2D-VCOM\obj\Debug\_2D_VCOM.Properties.Resources.resources
+C:\Users\Administrator\Desktop\上位机开发\2D-VCOM解决方案\2D-VCOM\2D-VCOM\obj\Debug\2D-VCOM.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\上位机开发\2D-VCOM解决方案\2D-VCOM\2D-VCOM\obj\Debug\2D-VCOM.exe
+C:\Users\Administrator\Desktop\上位机开发\2D-VCOM解决方案\2D-VCOM\2D-VCOM\obj\Debug\2D-VCOM.pdb
+C:\Users\Administrator\Desktop\上位机开发\2D-VCOM解决方案\2D-VCOM\2D-VCOM\obj\Debug\2D-VCOM.csprojResolveAssemblyReference.cache
